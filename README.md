@@ -30,7 +30,7 @@ Check out some of the cool projects I’ve worked on:
 
 Here’s a little bit about my GitHub activity:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Will-404-debug]&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Will-404-debug&theme=nightowl&hide_border=true" alt="Will-404-debug's GitHub Stats" />
 
 ## 🔗 Connect with Me
 
